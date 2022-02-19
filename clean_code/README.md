@@ -24,9 +24,9 @@ This project will go through 4 parts in total.
 
 
 ## Running Files
-pip install scikit-learn==0.22.2
-ipython churn_library.py python_script_logging_and_tests.py
-autopep8 --in-place --aggressive --aggressive churn_script_logging_and_tests.py
-autopep8 --in-place --aggressive --aggressive churn_library.py
-pylint churn_library.py
-pylint churn_script_logging_and_tests.py
+- pip install scikit-learn==0.22.2
+- ipython churn_library.py python_script_logging_and_tests.py
+- autopep8 --in-place --aggressive --aggressive churn_script_logging_and_tests.py
+- autopep8 --in-place --aggressive --aggressive churn_library.py
+- pylint churn_library.py
+- pylint churn_script_logging_and_tests.py
